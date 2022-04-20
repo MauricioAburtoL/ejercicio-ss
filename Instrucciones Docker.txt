@@ -1,0 +1,9 @@
+Para Ejecutar:
+docker pull mauaburtol5/ejercicio-ss
+docker run -it --rm -p 8080:8080 mauaburtol5/ejercicio-ss
+
+Añadir en el link generado:
+/ws/todo.wsdl
+
+
+Link de mi perfil de docker: https://hub.docker.com/u/mauaburtol5
